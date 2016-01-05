@@ -1,0 +1,3 @@
+wget http://q.stock.sohu.com/hisHq?code=cn_601668&stat=1&order=D&period=d&callback=historySearchHandler&rt=jsonp&0.5429994754601287
+
+wget http://q.stock.sohu.com/hisHq?code=cn_601668&start=20150302&end=20150623&stat=1&order=D&period=d&callback=historySearchHandler&rt=jsonp&r=0.6195983390790513&0.7440324466001116

@@ -1,0 +1,5 @@
+sock_list --->  http://www.sse.com.cn/assortment/stock/list/name/
+
+sock_new --->  http://www.sse.com.cn/js/common/stocks/new/600000.js
+
+sock_new2 ---> http://data.eastmoney.com/notice/NoticeStock.aspx?stockcode=600000&type=1&pn=1

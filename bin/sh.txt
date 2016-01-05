@@ -1,0 +1,2395 @@
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600000"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600004"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600005"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600006"
+[1] 0.09980431 0.01512456 0.09991236
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600007"
+[1]  0.096450617 -0.028852920  0.005072464
+[1]  0.099789178  0.003833866 -0.099936346
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600008"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600009"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600010"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600011"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600012"
+[1]  0.09980237  0.01976640 -0.09955947
+[1]  0.100478469 -0.009782609  0.023051592
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600015"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600016"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600017"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600018"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600019"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600020"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600021"
+[1]  0.10010941 -0.01491795 -0.01817264
+[1]  0.09995307 -0.01791809  0.07949609
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600022"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600023"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600026"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600027"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600028"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600029"
+[1]  0.10044444 -0.02746365 -0.01827243
+[1]  0.10061350 -0.01003344 -0.02027027
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600030"
+[1]  0.100098619 -0.008964590 -0.005879692
+[1]  0.099785408 -0.005365854  0.014222658
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600031"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600033"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600035"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600036"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600037"
+[1]  0.099146688 -0.029944547 -0.003810976
+[1]  0.100045683 -0.004152824  0.046705588
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600038"
+[1]  0.09992543 -0.01932203 -0.03439336
+[1] 0.10002891 0.00131406 0.03123360
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600039"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600048"
+[1]  0.10037879 -0.02237522 -0.03169014
+[1]  0.10028653 -0.01475694  0.05638767
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600050"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600051"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600052"
+[1]  0.10067114 -0.01829268  0.02018634
+[1] 0.09985935 0.02429668 0.01373283
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600053"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600054"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600055"
+[1] 0.10017730 0.01007252 0.10011966
+[1] 0.10003691 0.02751678 0.07380797
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600056"
+[1] 0.100110619 0.008547009 0.039880359
+[1]  0.100076982 -0.027991603  0.007919366
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600057"
+[1]  0.100089366 -0.004061738  0.005709625
+[1] 0.09974853 0.01219512 0.03915663
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600058"
+[1]  0.09988109 -0.02522523  0.02144177
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600059"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600060"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600061"
+[1]  0.099948480  0.003278689 -0.056956116
+[1]  0.100047870 -0.001305483  0.021350763
+[1]  0.099916736 -0.003028009  0.037205771
+[1] 0.09987745 0.01782730 0.05582923
+[1] 0.0998286204 0.0179197507 0.0007654038
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600062"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600063"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600064"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600066"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600067"
+[1]  0.099762470  0.005399568 -0.099892589
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600068"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600069"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600070"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600071"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600072"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600073"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600074"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600075"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600076"
+[1]  0.099734043 -0.006045949  0.021897810
+[1]  0.09948980 -0.01160093 -0.01408451
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600077"
+[1]  0.10107527 -0.01562500  0.02579365
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600078"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600079"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600080"
+[1]  0.10056657 -0.01930502  0.02493438
+[1]  0.100523560  0.027592769 -0.007407407
+[1]  0.099764336 -0.009285714  0.043979813
+[1] 0.10000000 0.01489028 0.01081081
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600081"
+[1]  0.099784250  0.001961746 -0.099853157
+[1]  0.10012438 -0.01469757  0.04991394
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600082"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600083"
+[1] 0.09982384 0.02776295 0.03428571
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600084"
+[1]  0.10050251  0.01141553 -0.03498871
+[1]  0.100494234 -0.011976048 -0.004545455
+[1]  0.10055096  0.02628285 -0.05853659
+[1]  0.099740933 -0.007067138 -0.018979834
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600085"
+[1]  0.100029682 -0.002698327  0.100108225
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600086"
+[1]  0.099856322  0.005225343 -0.019493177
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600088"
+[1] 0.100098135 0.005798394 0.004434590
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600089"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600090"
+[1]  0.09967497 -0.02561576  0.05662285
+[1] 0.10047847 0.02521739 0.03731976
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600091"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600093"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600094"
+[1]  0.10000000  0.01799242 -0.01860465
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600095"
+[1]  0.10013351 -0.01213592  0.03808354
+[1]  0.100338219 -0.008196721 -0.036157025
+[1] 0.09727626 0.00000000 0.00000000
+[1] 0.096692112 0.005800464 0.100346021
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600096"
+[1]  0.10045147 -0.01128205  0.03838174
+[1]  0.099847561 -0.001386001  0.099930604
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600097"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600098"
+[1]  0.10000000 -0.01748252 -0.01067616
+[1]  0.099827883 -0.010954617 -0.003955696
+[1] 0.1000794 0.0000000 0.1003610
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600099"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600100"
+[1]  0.100175747 -0.017039404  0.002166847
+[1]  0.099922541 -0.007042254  0.065248227
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600101"
+[1]  0.10000000  0.01564027 -0.04138595
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600103"
+[1]  0.10069930  0.02160102 -0.09701493
+[1] 0.09972678 0.01739130 0.02808303
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600104"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600105"
+[1]  0.099855282  0.002192982 -0.099781182
+[1]  0.09965636 -0.02343750  0.01920000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600106"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600107"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600108"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600109"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600110"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600111"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600112"
+[1] 0.10005621 0.01021972 0.02781993
+[1]  0.10015330  0.01532745 -0.10018298
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600113"
+[1]  0.09979839 -0.02291476 -0.05816135
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600114"
+[1]  0.10009183 -0.01419032  0.04657070
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600115"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600116"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600117"
+[1]  0.09940653 -0.02564103          NA
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600118"
+[1]  0.10005600 -0.02341761 -0.05299739
+[1]  0.100000000 -0.014184397 -0.003106606
+[1]  0.09990133  0.00201839 -0.09713518
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600119"
+[1]  0.10000000 -0.02406417 -0.01808219
+[1] 0.10020877 0.01518027 0.01588785
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600120"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600121"
+[1]  0.09978769 -0.01737452 -0.05108055
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600122"
+[1]  0.099567100 -0.008858268 -0.004965243
+[1] 0.09975268 0.01649175 0.04424779
+[1] 0.100184388 0.008938547 0.027685493
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600123"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600125"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600126"
+[1]  0.100490196  0.006681514 -0.027654867
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600127"
+[1]  0.09961190 -0.02588235  0.09057971
+[1] 0.09966777 0.02920443 0.04892368
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600128"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600129"
+[1]  0.10000000 -0.02693603  0.08353930
+[1]  0.097821444  0.007003891 -0.100077280
+[1]  0.10035336 -0.01669878  0.04441541
+[1]  0.099947118 -0.002884615 -0.001928640
+[1] 0.10024096 0.02190101 0.01114445
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600130"
+[1]  0.1004127  0.0137500 -0.0271270
+[1]  0.10032017  0.02618817 -0.10018904
+[1]  0.10074627 -0.02881356  0.05933682
+[1] 0.10023585 0.01929260 0.09989485
+[1]  0.10038241  0.01476977 -0.01113014
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600131"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600132"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600133"
+[1]  0.10031679  0.02591171 -0.02619270
+[1]  0.099913119 -0.006319115 -0.034976153
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600135"
+[1] 0.0987520347 0.0009876543 0.0286137148
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600136"
+[1] 0.1001103 0.0000000 0.0000000
+[1]  0.099936245 -0.004637009  0.037705634
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600137"
+[1]  0.10005131 -0.02005597  0.01166111
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600138"
+[1]  0.10009311 -0.02666102  0.01173913
+[1]  0.100104275 -0.006161137 -0.014306152
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600139"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600141"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600143"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600145"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600146"
+[1]  0.09989909  0.02874618 -0.01099881
+[1]  0.09833277  0.02633209 -0.03501358
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600148"
+[1]  0.09984698  0.01530435 -0.07536828
+[1]  0.09993594  0.02125801 -0.04818934
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600149"
+[1]  0.09978918 -0.01980831  0.07561930
+[1]  0.09985735 -0.01491569  0.04805793
+[1]  0.10024155 -0.01920966  0.02014550
+[1]  0.099812851 -0.002836075  0.058589306
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600150"
+[1]  0.100000000  0.005824259 -0.013091641
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600151"
+[1] 0.100080710 0.006603081 0.064139942
+[1]  0.10019455 -0.01679929 -0.09982014
+[1] 0.09952038 0.00000000 0.00000000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600152"
+[1] 0.100000000 0.001212121 0.020581114
+[1]  0.09752322 -0.01269394  0.02714286
+[1]  0.09965928 -0.01704105 -0.10007880
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600153"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600155"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600156"
+[1] 0.09973753 0.02307080 0.02643857
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600157"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600158"
+[1]  0.09991274  0.02816343 -0.04861111
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600159"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600160"
+[1]  0.099579243 -0.004464286  0.099935939
+[1] 0.09993594 0.00000000 0.00000000
+[1]  0.09968102 -0.01087745  0.03372434
+[1]  0.1001259446  0.0005724098 -0.0097254005
+[1] 0.099886493 0.015995872 0.004570848
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600161"
+[1] 0.10003775 0.02161977 0.03191132
+[1]  0.099970335  0.021305286 -0.003432796
+[1]  0.0968709816 -0.0074247753 -0.0003937008
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600162"
+[1] 0.1002786 0.0000000 0.0000000
+[1]  0.100000000 -0.004602992  0.002312139
+[1]  0.09953704 -0.02421053  0.04207120
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600163"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600165"
+[1]  0.100176367 -0.029496634 -0.006607202
+[1] 0.09988014 0.00000000 0.00000000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600166"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600167"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600168"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600169"
+[1] 0.100334448 0.009118541 0.001506024
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600170"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600171"
+[1] 0.100116414 0.008465608 0.033578174
+[1] 0.100107643 0.009784736 0.021317829
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600172"
+[1]  0.100000000  0.006806028 -0.025108643
+[1] 0.099786553 0.009704027 0.050937049
+[1]  0.100217865 -0.022574257 -0.008103728
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600173"
+[1]  0.10000000  0.02317291 -0.00174216
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600175"
+[1]  0.09552846 -0.02411874 -0.05703422
+[1]  0.100961538 -0.008733624  0.024229075
+[1]  0.10000000 -0.01724138  0.04625199
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600176"
+[1]  0.09987619  0.02213884 -0.04919236
+[1]  0.099891422 -0.017275420  0.009542943
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600177"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600178"
+[1]  0.100436681 -0.001984127 -0.007952286
+[1]  0.10032895 -0.02242152  0.05810398
+[1]  0.10000000 -0.02702703  0.01388889
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600179"
+[1]  0.09981629 -0.00389755  0.01788709
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600180"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600182"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600183"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600184"
+[1]  0.09986273 -0.01060842 -0.04730369
+[1]  0.10003078 -0.01482932  0.01420051
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600185"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600186"
+[1] 0.1004304 0.0000000 0.0000000
+[1]  0.09987196 -0.02328289 -0.02741359
+[1]  0.100490196  0.001113586 -0.026696329
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600187"
+[1]  0.09980431 -0.01601423  0.02350814
+[1] 0.1005291 0.0000000 0.0000000
+[1]  0.100178891 -0.003252033  0.011419250
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600188"
+[1]  0.100230415  0.025130890 -0.009193054
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600189"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600190"
+[1]  0.100156495 -0.009957326 -0.037356322
+[1]  0.097847358 -0.003565062 -0.089445438
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600191"
+[1]  0.099753695 -0.001119821  0.014013453
+[1] 0.10024814 0.00676590 0.00672043
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600192"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600193"
+[1]  0.10020040 -0.02853673 -0.00500000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600195"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600196"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600197"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600198"
+[1] 0.09980683 0.00175644 0.04266511
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600199"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600200"
+[1]  0.099935939  0.001164822 -0.094240838
+[1] 0.099846390 0.006517691 0.024051804
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600201"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600202"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600203"
+[1]  0.09954233 -0.01352758  0.02953586
+[1]  0.100000000 -0.026779422  0.002172339
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600206"
+[1] 0.09984871 0.01237964 0.02445652
+[1]  0.10031348 -0.01367521  0.09994223
+[1]  0.10038610 -0.01491228  0.03650935
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600207"
+[1]  0.10000000 -0.02020202  0.04467354
+[1]  0.10016835  0.01989288 -0.05776444
+[1]  0.10029283 -0.01862941 -0.09830508
+[1] 0.100070472 0.009609225          NA
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600208"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600209"
+[1]  0.100000000 -0.002997003 -0.100200401
+[1] 0.10013717 0.02369077 0.03166870
+[1]  0.10000000  0.01330377 -0.05798687
+[1]  0.09596413  0.02127660 -0.02163462
+[1] 0.100000000 0.008264463 0.009457755
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600210"
+[1]  0.100642398 -0.001945525  0.099415205
+[1]  0.09941520  0.02127660 -0.02256944
+[1]  0.099467140  0.001615509 -0.069354839
+[1]  0.100430416 -0.010430248 -0.006587615
+[1]  0.10057471 -0.01827676  0.03457447
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600211"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600212"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600213"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600215"
+[1]  0.09554140 -0.01889535  0.04444444
+[1]  0.10011001 -0.00400000 -0.01606426
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600216"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600217"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600218"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600219"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600220"
+[1]  0.099579243  0.008928571 -0.025284450
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600221"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600222"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600223"
+[1]  0.10038610 -0.02807018  0.01805054
+[1]  0.09539474  0.01051051 -0.03863299
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600225"
+[1] 0.100580271 0.028119508 0.005128205
+[1]  0.099843994 -0.019858156 -0.002894356
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600226"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600227"
+[1] 0.100649351 0.007374631 0.007320644
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600228"
+[1]  0.10048426 -0.00770077  0.02328160
+[1]  0.09750813 -0.01085884 -0.03592814
+[1] 0.100074683 0.004752206 0.019594595
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600229"
+[1]  0.09987893  0.01045680 -0.02015251
+[1]  0.09977152 -0.02285319 -0.04464918
+[1]  0.10041841 -0.02889734  0.02036022
+[1]  0.09993248 -0.02209945 -0.04519774
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600230"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600231"
+[1]  0.095607235 -0.025943396  0.002421308
+[1] 0.09927798 0.01970443 0.01449275
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600232"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600233"
+[1]  0.09992598 -0.02288022  0.06887052
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600234"
+[1]  0.09981168  0.00456621 -0.03977273
+[1]  0.10027100 -0.02627258  0.01264755
+[1] 0.09994385 0.00000000 0.07299643
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600235"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600236"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600237"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600238"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600239"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600240"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600241"
+[1] 0.096280088 0.000000000 0.002994012
+[1]  0.099637681  0.006589786 -0.049918167
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600242"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600243"
+[1] 0.099089990 0.004599816 0.007326007
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600246"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600247"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600248"
+[1]  0.100085543 -0.027216174 -0.007993605
+[1]  0.09941520 -0.02792553  0.02051984
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600249"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600250"
+[1] 0.099893730 0.004830918 0.034615385
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600251"
+[1]  0.099695586  0.006920415 -0.099656357
+[1] 0.1002087683 0.0037950664 0.0009451796
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600252"
+[1]  0.10005621 -0.02299438 -0.04079498
+[1]  0.09933775  0.02409639 -0.02647059
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600255"
+[1]  0.101030928  0.029962547 -0.003636364
+[1] 0.10095238 0.01557093 0.10051107
+[1]  0.10051107  0.01083591 -0.01684533
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600256"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600257"
+[1]  0.09877622 -0.01988862 -0.08441558
+[1]  0.09965636 -0.01145833 -0.10010537
+[1] 0.09988386 0.00844773 0.04188482
+[1]  0.099403579 -0.018083183  0.002762431
+[1]  0.10007880 -0.01575931 -0.05240175
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600258"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600259"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600260"
+[1]  0.098806366 -0.016898008 -0.004297115
+[1] 0.10025063 0.00000000 0.04555809
+[1] 0.10014306 0.01170351 0.03149100
+[1]  0.100190235  0.001152738 -0.044905009
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600261"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600262"
+[1]  0.100033344  0.001818733 -0.060514372
+[1]  0.10000000 -0.01038238 -0.01125896
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600265"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600266"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600267"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600268"
+[1]  0.098532495 -0.009541985  0.039499037
+[1]  0.10060976 -0.02631579  0.01991465
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600269"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600270"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600271"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600272"
+[1]  0.0955752212 -0.0008077544  0.0064672595
+[1]  0.10032895 -0.01270553 -0.09992430
+[1]  0.099693252  0.002092050 -0.006263048
+[1]  0.09983633  0.02976190 -0.02649326
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600273"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600275"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600276"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600277"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600278"
+[1]  0.100079428 -0.003610108  0.002173913
+[1]  0.0998751561 -0.0005675369  0.0488358887
+[1]  0.09967585 -0.01842299 -0.09984985
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600279"
+[1] 0.10034904 0.01506741 0.01562500
+[1]  0.10021171  0.02758178 -0.01186017
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600280"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600281"
+[1]  0.099861304 -0.008827238  0.015267176
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600282"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600283"
+[1] 0.09574468 0.00000000 0.10032362
+[1]  0.10017889 -0.02330623 -0.03884573
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600284"
+[1]  0.10017123  0.01245136 -0.03843198
+[1]  0.09991158 -0.02893891  0.00000000
+[1]  0.10000000 -0.01988636 -0.03840580
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600285"
+[1]  0.096539162 -0.001661130 -0.009983361
+[1]  0.10019646  0.02678571 -0.02782609
+[1] 0.100198413 0.023444545 0.003524229
+[1]  0.100161551 -0.015418502  0.004474273
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600287"
+[1] 0.10044843 0.00407498 0.09009740
+[1]  0.10054054 -0.01375246 -0.09960159
+[1]  0.09968354 -0.02374101 -0.10022108
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600288"
+[1]  0.10036900 -0.02749832  0.04551724
+[1] 0.100162866 0.003700962 0.100294985
+[1]  0.10024301 -0.01766980 -0.03035413
+[1]  0.099778271 -0.009072581 -0.090539166
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600289"
+[1] 0.09984560 0.02012167 0.03577982
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600290"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600291"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600292"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600293"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600295"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600297"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600298"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600299"
+[1] 0.100349040 0.001586043 0.014251781
+[1]  0.09680207 -0.02048857  0.04102977
+[1] 0.09976617 0.02055280 0.04305556
+[1] 0.10027855 0.02227848 0.01188707
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600300"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600301"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600302"
+[1]  0.09878214 -0.01231527 -0.00872818
+[1]  0.09797297 -0.02769231  0.02056962
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600303"
+[1] 0.09943182 0.02583979 0.03778338
+[1]  0.10085470 -0.02950311 -0.09760000
+[1] 0.09976798 0.00000000 0.00000000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600305"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600306"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600307"
+[1]  0.09771310 -0.02840909 -0.01169591
+[1]  0.09964413 -0.02750809 -0.07154742
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600308"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600309"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600310"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600311"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600312"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600313"
+[1] 0.09973226 0.02495435 0.05285036
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600315"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600316"
+[1]  0.100077280 -0.003512469 -0.013394431
+[1]  0.09980431  0.02224199 -0.08659704
+[1]  0.09951749 -0.01042238  0.01053215
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600317"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600318"
+[1] 0.10010921 0.00496360 0.04346394
+[1]  0.100062933  0.010869565 -0.001131862
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600319"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600320"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600321"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600322"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600323"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600325"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600326"
+[1]  0.100325733  0.005920663 -0.033549147
+[1] 0.098692033 0.003246753 0.012944984
+[1]  0.099900100  0.007266122 -0.009918846
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600327"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600328"
+[1]  0.10027599 -0.01923077 -0.09974425
+[1] 0.099808061 0.006108202 0.099739809
+[1] 0.100332226 0.012681159 0.005963029
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600329"
+[1] 0.100060277 0.003835616 0.000000000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600330"
+[1] 0.099815157 0.007563025 0.026688907
+[1]  0.09950249 -0.01244344  0.02863688
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600331"
+[1]  0.10013532  0.01353014 -0.02184466
+[1] 0.099476440 0.012698413 0.006269592
+[1]  0.10095238 -0.02941176  0.02317291
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600332"
+[1] 0.10006139 0.02734375 0.04780011
+[1]  0.099920382 -0.009048136  0.026661797
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600333"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600335"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600336"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600337"
+[1]  0.100000000 -0.009404389  0.033227848
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600338"
+[1]  0.099828620 -0.006232957 -0.071344571
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600339"
+[1]  0.09983897  0.01171303 -0.03328509
+[1]  0.100598802 -0.003264418 -0.100436681
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600340"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600343"
+[1]  0.10000000 -0.02038320 -0.09987516
+[1]  0.096577017 -0.029542921  0.009764503
+[1]  0.100113766 -0.009824199 -0.023498695
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600345"
+[1]  0.099800399 -0.019358742  0.009253547
+[1]  0.09990253 -0.01417811  0.04539326
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600346"
+[1] 0.10076336 0.02912621 0.01617251
+[1]  0.09960682 -0.02741359 -0.10049020
+[1]  0.100131752  0.009580838 -0.024911032
+[1]  0.09941520 -0.02051672 -0.07835531
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600348"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600350"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600351"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600352"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600353"
+[1]  0.099730458  0.006535948 -0.020292208
+[1]  0.099510604  0.005934718 -0.025073746
+[1]  0.100133511  0.007281553 -0.027710843
+[1] 0.10011001 0.00600000 0.01689861
+[1]  0.09970674 -0.02133333  0.01544051
+[1] 0.10020040 0.01457195 0.02064632
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600354"
+[1]  0.100483092  0.003511853 -0.099737533
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600355"
+[1] 0.10017271 0.01412873 0.01393189
+[1]  0.099502488 -0.001131222 -0.003397508
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600356"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600358"
+[1] 0.100105374 0.001915709 0.005736138
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600359"
+[1]  0.09984985 -0.02252560 -0.09846369
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600360"
+[1]  0.098837209 -0.009259259 -0.001335113
+[1]  0.100680272 -0.001236094 -0.006188119
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600361"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600362"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600363"
+[1]  0.10027663 -0.01131364 -0.03051494
+[1]  0.0999039385 -0.0008733624  0.0349650350
+[1] 0.099918765 0.001477105 0.039823009
+[1]  0.100209864 -0.008583691 -0.024531025
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600365"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600366"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600367"
+[1]  0.09543011 -0.02085890  0.02130326
+[1]  0.09964830 -0.02345416  0.03165939
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600368"
+[1]  0.10085470  0.00000000 -0.03416149
+[1] 0.099778271 0.004032258 0.014056225
+[1]  0.100990099  0.007194245 -0.037500000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600369"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600370"
+[1]  0.099210823  0.008205128 -0.012207528
+[1]  0.09986684 -0.02542373  0.01614907
+[1] 0.100065402 0.002378121 0.027876631
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600371"
+[1] 0.100262123 0.002977963 0.015439430
+[1]  0.099902057 -0.003561888  0.080428954
+[1]  0.09589041 -0.00625000 -0.10000000
+[1]  0.09984639 -0.02327747 -0.03527169
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600372"
+[1]  0.09986273 -0.00249610 -0.03315608
+[1]  0.09712425 -0.02967359  0.01325178
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600373"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600375"
+[1]  0.10093458 -0.01018676  0.03602058
+[1]  0.10066225 -0.02527076 -0.04938272
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600376"
+[1]  0.10030706  0.01023256 -0.01749540
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600377"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600378"
+[1] 0.099763872 0.003757381 0.004812834
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600379"
+[1]  0.10029499 -0.02305630  0.01536773
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600380"
+[1]  0.100350877 -0.006377551  0.010269576
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600381"
+[1]  0.099943535 -0.017453799 -0.007836991
+[1] 0.10000000 0.02875696 0.04057710
+[1] 0.099846390 0.011173184 0.005064457
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600382"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600383"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600385"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600386"
+[1] 0.100323625 0.012941176 0.006387921
+[1]  0.099912358 -0.011155378 -0.008058018
+[1]  0.09977064 -0.02919708 -0.00698174
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600387"
+[1] 0.098720293 0.006655574 0.057851240
+[1]  0.096656535  0.009977827 -0.025795829
+[1] 0.09988386 0.01742344 0.04774261
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600388"
+[1]  0.10000000  0.01042270 -0.01260745
+[1]  0.10000000 -0.02153110  0.01385493
+[1] 0.10006414 0.01399417 0.02817711
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600389"
+[1]  0.095693780 -0.016157205  0.008877053
+[1] 0.099837662 0.005166052 0.099853157
+[1] 0.099853157 0.008010681 0.002317881
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600390"
+[1] 0.10000000 0.00000000 0.04078165
+[1]  0.10027855 -0.01329114  0.09108403
+[1]  0.100133511  0.007281553 -0.080722892
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600391"
+[1]  0.09990771  0.01594294 -0.02952715
+[1]  0.100000000  0.009238729 -0.008971073
+[1]  0.10011710  0.01516764 -0.09986894
+[1] 0.10012260 0.02265973 0.05049037
+[1] 0.099930844 0.008802263 0.007790589
+[1] 0.09590288 0.00000000 0.00000000
+[1]  0.09993171  0.01448675 -0.02264382
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600392"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600393"
+[1]  0.100297915  0.007220217 -0.043906810
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600395"
+[1]  0.10066007 -0.02398801  0.03225806
+[1] 0.100000000 0.004914005 0.006112469
+[1]  0.10013351 -0.02305825  0.02111801
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600396"
+[1]  0.09750000 -0.02505695 -0.02336449
+[1] 0.099785408 0.004878049 0.047572816
+[1]  0.10026042 -0.01538462 -0.01322115
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600397"
+[1]  0.099554235 -0.005405405 -0.100543478
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600398"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600399"
+[1]  0.100502513  0.001826484 -0.041020966
+[1]  0.10011377  0.01137539 -0.10020450
+[1]  0.099596231 -0.004895961 -0.002460025
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600400"
+[1]  0.09967585 -0.01989683 -0.01729323
+[1] 0.100000000 0.009037746 0.021601686
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600401"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600403"
+[1]  0.09962406 -0.02051282 -0.01396161
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600405"
+[1]  0.100421941 -0.009969325 -0.009295120
+[1] 0.100126743 0.001152074 0.009205984
+[1] 0.100401606 0.003649635 0.076363636
+[1] 0.100128370 0.003500583 0.100000000
+[1]  0.100000000  0.001585624 -0.023746702
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600406"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600408"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600409"
+[1]  0.10052910 -0.02500000  0.05128205
+[1]  0.100574713 -0.001305483 -0.099346405
+[1]  0.09844560 -0.02240566  0.06513872
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600410"
+[1]  0.100079428 -0.024187726  0.001849797
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600415"
+[1]  0.09570552 -0.01903695 -0.03767123
+[1]  0.099897013  0.007490637 -0.024163569
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600416"
+[1]  0.09978070  0.01395813 -0.03195674
+[1] 0.099951004 0.024053452 0.004349717
+[1]  0.100299401 -0.008843537 -0.100205903
+[1]  0.097796143 -0.002509410  0.006289308
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600418"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600419"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600420"
+[1]  0.09679427 -0.01986379 -0.09988419
+[1] 0.1000888 0.0000000 0.0000000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600421"
+[1] 0.09754281 0.02713704 0.06274769
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600422"
+[1] 0.10000000 0.02773498         NA
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600423"
+[1]  0.100182149  0.001655629 -0.024793388
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600425"
+[1]  0.10076046 -0.02936097 -0.09964413
+[1]  0.10059172 -0.01075269  0.01268116
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600426"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600428"
+[1]  0.100334448 -0.012917933 -0.003079292
+[1] 0.1003861 0.0000000 0.0000000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600429"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600432"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600433"
+[1]  0.10071942 -0.01699346  0.03191489
+[1]  0.09989142  0.00000000 -0.05231984
+[1]  0.100000000  0.007053292 -0.038910506
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600435"
+[1]  0.09997748 -0.02272262 -0.03665689
+[1]  0.10011099 -0.02623083 -0.07915458
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600436"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600438"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600439"
+[1]  0.100141044 -0.001282051  0.012836970
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600444"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600446"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600448"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600449"
+[1] 0.09970674 0.02488889 0.09973981
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600452"
+[1]  0.09991460 -0.01669255  0.03592578
+[1]  0.09654063 -0.02311079 -0.08073601
+[1]  0.09947644 -0.02440476  0.04087858
+[1] 0.0997316637 0.0195201301 0.0003988831
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600455"
+[1]  0.09845758 -0.02153054  0.04855298
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600456"
+[1] 0.09975470 0.01486989 0.01904762
+[1]  0.09993980 -0.02025178 -0.04860335
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600458"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600459"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600460"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600461"
+[1]  0.100080064 -0.004366812 -0.100146199
+[1]  0.100078802 -0.017191977  0.005102041
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600462"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600463"
+[1] 0.10021786 0.02310231 0.01290323
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600466"
+[1]  0.10000000 -0.01958042 -0.02710414
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600467"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600468"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600469"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600470"
+[1]  0.099601594 -0.003623188  0.015757576
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600475"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600476"
+[1]  0.100096712 -0.001318681  0.013204225
+[1]  0.099277292 -0.002422145 -0.030870621
+[1]  0.10000000  0.00000000 -0.02112029
+[1]  0.09992294 -0.02895843 -0.02236652
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600477"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600478"
+[1] 0.09973753 0.02147971 0.03679907
+[1]  0.10006583 -0.02034710  0.01588271
+[1]  0.099819603  0.008201203 -0.039587852
+[1] 0.09980040 0.01134301 0.02288022
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600479"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600480"
+[1] 0.10019776 0.01437987 0.00472534
+[1] 0.095508812 0.003632590 0.009307135
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600481"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600482"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600483"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600485"
+[1] 0.09995710 0.02262090 0.03394355
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600486"
+[1]  0.10000000 -0.01170799  0.01080139
+[1]  0.09775580 -0.02321552  0.06065981
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600487"
+[1]  0.096802842 -0.005668016  0.005700326
+[1] 0.100205903 0.007485964 0.006191950
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600488"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600489"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600490"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600491"
+[1]  0.10066225 -0.02647413  0.03090235
+[1]  0.1004415  0.0000000 -0.0110331
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600493"
+[1]  0.09980237  0.01796945 -0.02383054
+[1]  0.100200401 -0.005464481 -0.003663004
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600495"
+[1]  0.099824869  0.001592357 -0.042925278
+[1]  0.09955257  0.02848423 -0.02176063
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600496"
+[1]  0.09971910 -0.01404853  0.05440415
+[1] 0.100900901 0.006546645 0.000000000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600497"
+[1]  0.09958932 -0.01587302 -0.02371917
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600498"
+[1]  0.100135931  0.007413509 -0.008176615
+[1] 0.097409326 0.009915014 0.024310425
+[1]  0.099961255 -0.016907362 -0.003582945
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600499"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600500"
+[1]  0.09991387 -0.02740799  0.01207729
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600501"
+[1]  0.1001390821 -0.0139064475  0.0008547009
+[1]  0.09982487 -0.01273885 -0.10000000
+[1]  0.09987966 -0.02954048 -0.09977452
+[1]  0.0997304582  0.0006127451 -0.0238824250
+[1] 0.1 0.0 0.1
+[1]  0.09991312 -0.02014218  0.09995969
+[1]  0.09995969  0.01978747 -0.01329501
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600502"
+[1] 0.099903939 0.006113537 0.026909722
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600503"
+[1] 0.1000000 0.0000000 0.0260747
+[1]  0.100411523  0.015706806 -0.009572901
+[1]  0.099640934 -0.004897959  0.001640689
+[1]  0.10016556 -0.01053424  0.04714829
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600505"
+[1] 0.099783080 0.001972387 0.020669291
+[1] 0.099567100 0.014435696 0.006468305
+[1]  0.099567100 -0.026574803  0.006066734
+[1]  0.099706745  0.001777778 -0.044365572
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600506"
+[1]  0.100366300 -0.009320905 -0.051747312
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600507"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600508"
+[1] 0.10018904 0.02147766 0.03195963
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600509"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600510"
+[1]  0.10020450  0.01022305 -0.01563937
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600511"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600512"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600513"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600515"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600516"
+[1]  0.09658247 -0.02981030  0.01117318
+[1]  0.09980989 -0.02852204  0.04092527
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600517"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600518"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600519"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600520"
+[1]  0.09968847 -0.01558074  0.02158273
+[1]  0.09991497 -0.02203324 -0.02924901
+[1] 0.10022371 0.02562017 0.03608247
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600521"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600522"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600523"
+[1]  0.10004810 -0.01268037 -0.02391497
+[1] 0.100223964 0.010687023 0.008056395
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600525"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600526"
+[1]  0.099900100 -0.003633061  0.041932543
+[1]  0.10023310 -0.01483051 -0.04569892
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600527"
+[1]  0.096601073 -0.019575856 -0.001663894
+[1]  0.09567198 -0.02494802  0.02345416
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600528"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600529"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600530"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600531"
+[1]  0.100000000 -0.002997003  0.012024048
+[1]  0.100260417 -0.012426036  0.006590773
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600532"
+[1] 0.10005851 0.01223404 0.04992118
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600533"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600535"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600536"
+[1]  0.09985735 -0.02334630  0.09993360
+[1]  0.09987966  0.02005835 -0.10010726
+[1] 0.09991460 0.01086957 0.03072197
+[1]  0.099909173  0.002752546 -0.036782871
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600537"
+[1]  0.10059880 -0.02937976  0.01681614
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600538"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600539"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600540"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600543"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600545"
+[1]  0.100208768 -0.001265022  0.100063331
+[1]  0.10000000 -0.02045455 -0.09976798
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600546"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600547"
+[1]  0.1000935454  0.0004251701 -0.0365490863
+[1]  0.099855977 -0.012221737  0.004860804
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600548"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600549"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600550"
+[1]  0.096700796 -0.015560166  0.004214963
+[1]  0.09817672 -0.01277139 -0.09702458
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600551"
+[1]  0.0998431783 -0.0128326996  0.0004814636
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600552"
+[1] 0.10011779 0.02783726 0.01614583
+[1] 0.099854581 0.004847951 0.049561404
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600555"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600556"
+[1]  0.09983633 -0.01562500  0.05517763
+[1]  0.10046189 -0.01259182  0.02869288
+[1]  0.10008203 -0.01342282  0.05593348
+[1] 0.09975962 0.02786885 0.04731526
+[1]  0.09928401  0.02778984 -0.03844529
+[1]  0.100230947  0.028127624 -0.003674969
+[1]  0.09984215 -0.02834589 -0.03212703
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600557"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600558"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600559"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600560"
+[1]  0.099715100 -0.005181347  0.031250000
+[1] 0.10024651 0.02688574 0.03272727
+[1]  0.100201410  0.007322654 -0.056792367
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600561"
+[1]  0.099890231 -0.009980040  0.001008065
+[1] 0.100175747 0.001597444 0.009569378
+[1]  0.10007413 -0.01280323  0.01023891
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600562"
+[1]  0.099956351  0.008928571 -0.030285152
+[1]  0.10014306  0.01092328 -0.01286339
+[1]  0.100000000  0.029858704 -0.009319182
+[1]  0.100000000 -0.003671329  0.050008773
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600563"
+[1]  0.0999105279 -0.0002711497  0.0474640629
+[1]  0.10008317  0.01008065 -0.01921158
+[1]  0.09997291 -0.00862069 -0.03602484
+[1]  0.100000000 -0.003748828  0.019755409
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600565"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600566"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600567"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600568"
+[1]  0.100046970 -0.007258753 -0.046451613
+[1]  0.10018904  0.02190722 -0.07860446
+[1]  0.100207900 -0.003023432 -0.074298711
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600569"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600570"
+[1]  0.09997390 -0.01969625  0.03897361
+[1]  0.09993404 -0.01499250  0.09984779
+[1]  0.099967331 -0.005494505  0.062416007
+[1]  0.100070274  0.004471701 -0.009157975
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600571"
+[1]  0.099951401  0.007805596 -0.073798042
+[1]  0.098927106 -0.006604451 -0.009828010
+[1]  0.10012674 -0.02050691  0.03999059
+[1]  0.099977381 -0.001233806  0.000000000
+[1]  0.099983977  0.009031318 -0.042875704
+[1]  0.099967437 -0.009473061  0.047220562
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600572"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600573"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600575"
+[1]  0.10060362 -0.02376600  0.09925094
+[1]  0.10000000 -0.02311248 -0.04416404
+[1] 0.10066007 0.01499250 0.07533235
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600576"
+[1]  0.1002557545  0.0009298001 -0.0998606595
+[1] 0.10000000 0.00689358 0.10012837
+[1]  0.09889471  0.01535204 -0.10010428
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600577"
+[1]  0.10059172  0.01971326 -0.01405975
+[1]  0.098984772 -0.027713626  0.004750594
+[1]  0.10000000 -0.01567398  0.10031847
+[1]  0.10031847  0.02026049 -0.08936170
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600578"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600579"
+[1]  0.09991810  0.02382725 -0.01527273
+[1]  0.09815355 -0.02123894 -0.10036166
+[1]  0.09615385 -0.00877193  0.02753196
+[1]  0.09949833 -0.01977186  0.05430566
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600580"
+[1] 0.10031104 0.02049470 0.08795014
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600581"
+[1]  0.10000000  0.02181818 -0.04359431
+[1]  0.100137174 -0.006234414 -0.100376412
+[1] 0.1001698 0.0000000 0.0000000
+[1]  0.10029499 -0.01608579 -0.02861035
+[1]  0.10024450 -0.02222222 -0.03750000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600582"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600583"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600584"
+[1] 0.10038023 0.01174845 0.05737705
+[1]  0.10031746  0.02077323 -0.01752402
+[1]  0.10005322  0.02564103 -0.02500000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600585"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600586"
+[1]  0.09792844  0.02401372 -0.03852596
+[1]  0.100800000  0.005813953 -0.024566474
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600587"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600588"
+[1]  0.099909173 -0.018992568  0.003787879
+[1] 0.10020704 0.01919458 0.07385524
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600589"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600590"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600592"
+[1] 0.09992070 0.02307138 0.05637773
+[1]  0.09577114 -0.02043133  0.01506373
+[1] 0.100213220 0.005813953 0.033718690
+[1]  0.100377358 -0.004801097  0.019297037
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600593"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600594"
+[1]  0.0994355189 -0.0138230648  0.0008009612
+[1]  0.10013175 -0.01377246 -0.10018215
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600595"
+[1]  0.09983633 -0.02529762 -0.02900763
+[1]  0.100222717 -0.022267206 -0.002070393
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600596"
+[1]  0.095384615 -0.015449438  0.007132668
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600597"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600598"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600599"
+[1] 0.1000373274 0.0003393281 0.0020352782
+[1] 0.1000329 0.0000000 0.0000000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600600"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600601"
+[1]  0.10058309 -0.02384106  0.01085482
+[1]  0.09923664 -0.01215278  0.10017575
+[1]  0.10017575  0.01597444 -0.01572327
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600602"
+[1]  0.100106496  0.005808325 -0.033686237
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600603"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600604"
+[1]  0.10026212 -0.02977963  0.03560467
+[1] 0.09989316 0.00000000 0.00000000
+[1]  0.10017050 -0.02092212  0.02097349
+[1]  0.10004050  0.01730486 -0.02823018
+[1] 0.10010842 0.02463863 0.10003206
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600605"
+[1] 0.099786172 0.006480881 0.030264005
+[1]  0.09988386  0.02217529 -0.01549587
+[1]  0.09884679 -0.01686657          NA
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600606"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600608"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600609"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600610"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600611"
+[1] 0.100444444 0.025040388 0.003152088
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600612"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600613"
+[1]  0.10021692  0.02563091 -0.09996155
+[1] 0.10020986 0.02288984 0.02797203
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600614"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600615"
+[1] 0.0997210600 0.0006341154 0.0190114068
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600616"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600617"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600618"
+[1]  0.10045662 -0.01327801 -0.03364172
+[1]  0.099147122 -0.002909796 -0.085603113
+[1] 0.099794239 0.002806361 0.030783582
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600619"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600620"
+[1]  0.09994874 -0.01304753  0.00000000
+[1] 0.09988584 0.00000000 0.00000000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600621"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600622"
+[1]  0.095659876  0.014551334 -0.009561753
+[1]  0.098870056 -0.004284490  0.009466437
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600623"
+[1]  0.100161551 -0.009544787  0.014825797
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600624"
+[1] 0.10036166 0.00903862 0.02442997
+[1]  0.100297177  0.006752194 -0.099932931
+[1]  0.09956710 -0.02460630  0.09989909
+[1] 0.10026385 0.02937650 0.07571345
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600626"
+[1]  0.100364964 -0.009950249 -0.099664992
+[1] 0.1001805 0.0000000 0.0000000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600628"
+[1]  0.09920000 -0.02474527 -0.01492537
+[1]  0.099899598  0.008671839 -0.100000000
+[1] 0.10000000 0.01571268 0.01160221
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600629"
+[1] 0.10020790 0.02116402 0.04293116
+[1]  0.10010010  0.01956324 -0.09995538
+[1]  0.0981233244 -0.0087890625 -0.0009852217
+[1]  0.10004100 -0.01229966 -0.02075472
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600630"
+[1]  0.098372258  0.005154639 -0.015384615
+[1]  0.09984399 -0.02659574 -0.07322404
+[1]  0.09984277  0.01929950 -0.07152875
+[1]  0.09850107  0.01039636 -0.04758842
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600633"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600634"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600635"
+[1]  0.09959072 -0.00248139 -0.02114428
+[1]  0.100449775 -0.005449591  0.100000000
+[1]  0.100000000 -0.014995314 -0.003805899
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600636"
+[1]  0.09967320 -0.02154532 -0.10022779
+[1] 0.10008780 0.02713488 0.02020202
+[1]  0.099865952  0.001218769 -0.007303713
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600637"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600638"
+[1]  0.0999083410 -0.0008333333  0.0241868224
+[1]  0.10000000 -0.02859238  0.02415094
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600639"
+[1]  0.100154083 -0.024276377  0.007655502
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600640"
+[1]  0.1000000000 -0.0005050505  0.0697321880
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600641"
+[1] 0.100338983 0.008626001 0.063530849
+[1]  0.099808061 -0.006980803  0.009373169
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600642"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600643"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600644"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600645"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600647"
+[1]  0.10010320  0.00000000 -0.01360225
+[1] 0.09982175 0.00891410 0.05903614
+[1]  0.09987516 -0.01021566  0.05504587
+[1] 0.10017825 0.02495139 0.00000000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600648"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600649"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600650"
+[1]  0.100000000 -0.009719840 -0.007505774
+[1]  0.10022472 -0.00245098  0.06429156
+[1]  0.10003535 -0.01992288 -0.05377049
+[1] 0.10014556 0.02725589 0.09994848
+[1]  0.100000000 -0.013838620  0.007340242
+[1]  0.10011751 -0.01089511  0.01965443
+[1] 0.10013387 0.02458019 0.01163895
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600651"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600652"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600653"
+[1]  0.10071942 -0.02777778 -0.05210084
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600654"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600655"
+[1]  0.10027548 -0.02603906  0.04318766
+[1]  0.100343643 -0.007495315 -0.037130271
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600657"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600658"
+[1] 0.100000000 0.003430532 0.029914530
+[1] 0.09969325 0.02370990         NA
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600660"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600661"
+[1] 0.09983430 0.02109228 0.02914054
+[1]  0.100127551  0.008405797 -0.089680943
+[1]  0.10014375 -0.01088850  0.09995597
+[1]  0.100080386  0.010960906 -0.001807011
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600662"
+[1] 0.10000000 0.01113173 0.04954128
+[1]  0.09992811 -0.02549020 -0.09993293
+[1]  0.10027855 -0.01434599 -0.10017123
+[1]  0.10036900 -0.02481556 -0.03851444
+[1]  0.10014306  0.02145644 -0.04201146
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600663"
+[1] 0.099938813 0.001297979 0.004814815
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600664"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600665"
+[1]  0.09985935 -0.02046036  0.01044386
+[1]  0.09523810 -0.02070393  0.02114165
+[1] 0.099596231 0.006119951 0.019464720
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600666"
+[1]  0.100000000  0.001670246 -0.015483564
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600667"
+[1]  0.10076336 -0.01941748  0.03960396
+[1]  0.10072993 -0.02122016  0.10027100
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600668"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600671"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600673"
+[1]  0.09952607 -0.00862069  0.03043478
+[1] 0.100367197 0.000000000 0.007786429
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600674"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600675"
+[1]  0.1004071 -0.0271270 -0.0139417
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600676"
+[1]  0.100078802 -0.001432665  0.099713056
+[1]  0.10027855 -0.02531646 -0.09956710
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600677"
+[1]  0.09984338 -0.01352795 -0.02201371
+[1]  0.100307692 -0.015100671 -0.005678592
+[1]  0.100134409  0.007330483 -0.022437841
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600678"
+[1] 0.10016694 0.00000000 0.01062215
+[1]  0.1001100 -0.0030000  0.0220662
+[1]  0.10018904 -0.02920962  0.01858407
+[1] 0.09982068 0.01086957 0.04139785
+[1]  0.100154879 -0.009385265 -0.016579820
+[1]  0.10014728  0.02097278 -0.02316434
+[1]  0.10022371 -0.00650671  0.02292264
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600679"
+[1]  0.10008006 -0.02256186 -0.01414743
+[1]  0.09985528  0.00000000 -0.01447368
+[1]  0.09987196 -0.02328289 -0.02383790
+[1]  0.09994051 -0.01892915 -0.03914002
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600680"
+[1]  0.10007252 -0.02900461 -0.03564155
+[1] 0.10019268 0.02907180 0.01123213
+[1]  0.09998218 -0.02009073 -0.03091931
+[1]  0.099918100  0.002233805 -0.014858841
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600681"
+[1]  0.099909173 -0.018166804 -0.006728343
+[1]  0.09980237  0.02156334 -0.01846966
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600682"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600683"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600684"
+[1]  0.100292113 -0.007964602 -0.033898305
+[1]  0.09971910 -0.02171137  0.04308094
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600685"
+[1]  0.10011723 -0.01449275 -0.02443772
+[1] 0.100000000 0.020182175 0.003851541
+[1]  0.100130719  0.009030418 -0.005416863
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600686"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600687"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600688"
+[1] 0.100000000 0.010263930 0.004354136
+[1]  0.100000000 -0.008658009 -0.002911208
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600689"
+[1] 0.1000625 0.0000000 0.0000000
+[1] 0.100172712 0.002093145 0.026631854
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600690"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600691"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600692"
+[1]  0.09962406 -0.01025641 -0.10017271
+[1] 0.100448430 0.003259984 0.033306255
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600693"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600694"
+[1] 0.10007718 0.02572498 0.02485180
+[1]  0.10001950 -0.02073733  0.08271493
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600695"
+[1]  0.095687332 -0.018450185 -0.005012531
+[1]  0.100156495  0.001422475 -0.083806818
+[1]  0.100386100 -0.029239766 -0.006024096
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600696"
+[1] 0.10046729 0.01273885 0.02201258
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600697"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600698"
+[1]  0.099606815 -0.013110846 -0.003623188
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600699"
+[1]  0.09573699 -0.01780415  0.07955690
+[1]  0.100048100 -0.009619589  0.034437086
+[1]  0.09996352 -0.01028192  0.01206434
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600701"
+[1]  0.1002754821 -0.0005007511 -0.1002004008
+[1] 0.09974205 0.02501955 0.03585050
+[1]  0.09929078  0.02419355 -0.06456693
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600702"
+[1]  0.100226074  0.001369863 -0.018467852
+[1]  0.10015649 -0.01706970 -0.02677279
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600703"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600704"
+[1]  0.10017575  0.02662407 -0.05342324
+[1]  0.10000000  0.02449364 -0.03586207
+[1]  0.09987113 -0.01816052 -0.10023866
+[1]  0.09979353  0.01001252 -0.03531599
+[1] 0.100113766 0.007238883 0.025154004
+[1]  0.09984318 -0.02186312 -0.05685131
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600705"
+[1]  0.10006761 -0.01720959 -0.07942464
+[1] 0.09555069 0.00000000 0.00000000
+[1]  0.100182149 -0.004966887  0.044370494
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600706"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600707"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600708"
+[1]  0.100168350 -0.005355777  0.100000000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600710"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600711"
+[1] 0.09945504 0.02230483 0.04242424
+[1]  0.100000000 -0.014492754 -0.002673797
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600712"
+[1]  0.10000000 -0.01356852  0.01100413
+[1]  0.09962406 -0.01880342  0.09930314
+[1] 0.09930314 0.02535658 0.10046368
+[1] 0.10046368 0.01825843 0.03448276
+[1]  0.10024450  0.01222222 -0.01207464
+[1]  0.10010764  0.01369863 -0.02220077
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600713"
+[1]  0.099688474  0.006610009 -0.015947467
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600714"
+[1] 0.10074074 0.01749664 0.10052910
+[1] 0.09954233 0.01873049 0.01940756
+[1]  0.099794239 -0.009354537 -0.017941454
+[1]  0.099601594 -0.009057971 -0.047531993
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600715"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600716"
+[1] 0.10033445 0.01621074 0.04386839
+[1] 0.09979424 0.01964453         NA
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600717"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600718"
+[1]  0.10012136 -0.02537231  0.02829655
+[1]  0.10008006 -0.02037846  0.03194651
+[1] 0.09988430 0.02980365         NA
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600719"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600720"
+[1]  0.099722992 -0.001259446 -0.099621690
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600721"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600722"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600723"
+[1]  0.099906629 -0.005942275 -0.099914603
+[1]  0.100606061 -0.008810573 -0.080000000
+[1]  0.09968847  0.01888574 -0.01853568
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600724"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600725"
+[1]  0.100529101 -0.003205128 -0.080385852
+[1]  0.100166945  0.012139605 -0.007496252
+[1] 0.09913793 0.00130719 0.04438642
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600726"
+[1] 0.09991387 0.01018011 0.01085271
+[1]  0.099540582 -0.009749304  0.009845288
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600727"
+[1]  0.098958333 -0.005924171 -0.016686532
+[1]  0.09747899 -0.02756508  0.01102362
+[1]  0.10043668  0.02910053 -0.02313625
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600728"
+[1]  0.099941211 -0.001068947  0.051899411
+[1] 0.10013532 0.01435014 0.08932902
+[1] 0.100147275 0.006024096 0.100133067
+[1] 0.10017953 0.01990862 0.06272000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600729"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600730"
+[1]  0.09985886 -0.02694899 -0.07649192
+[1]  0.09940250 -0.01037549  0.01747379
+[1]  0.100036778 -0.004012036 -0.100033568
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600731"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600732"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600733"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600734"
+[1] 0.09976247 0.02807775 0.09978992
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600735"
+[1]  0.09965338 -0.01891253 -0.09959839
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600736"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600737"
+[1] 0.10005105 0.01624130 0.04018265
+[1] 0.09992070 0.02451334 0.06192822
+[1]  0.09981285  0.01418037 -0.02348993
+[1]  0.100249066  0.002829655 -0.029909707
+[1]  0.099885845 -0.018681889 -0.006345849
+[1]  0.100071480 -0.025990903 -0.001334223
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600738"
+[1]  0.10051813 -0.01506591  0.10038241
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600739"
+[1]  0.10014238 -0.01164797          NA
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600740"
+[1]  0.09945750 -0.01151316 -0.09983361
+[1]  0.10052910  0.01762821 -0.02519685
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600741"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600742"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600743"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600744"
+[1]  0.099796334  0.002777778 -0.055401662
+[1]  0.099905749 -0.002570694  0.049828179
+[1] 0.10000000 0.01652893 0.05826558
+[1]  0.10056497  0.01950719 -0.07552870
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600745"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600746"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600747"
+[1]  0.09957326 -0.02975420 -0.10000000
+[1]  0.10036496 -0.02487562  0.02551020
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600748"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600749"
+[1]  0.09988295 -0.01809152 -0.10007225
+[1]  0.09973753 -0.02207637  0.06040268
+[1]  0.10020450 -0.02602230  0.05407125
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600750"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600751"
+[1]  0.100598802 -0.005440696 -0.009846827
+[1]  0.10069930 -0.02287166 -0.10013004
+[1]  0.09628378 -0.01078582  0.03894081
+[1]  0.09968187  0.00000000 -0.00192864
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600753"
+[1]  0.09617682 -0.01280654 -0.09412089
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600754"
+[1] 0.1000582 0.0000000 0.0000000
+[1]  0.09994712 -0.01754808  0.10007340
+[1]  0.099915146 -0.009643202  0.082960078
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600755"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600756"
+[1]  0.10004275 -0.02487369  0.05540056
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600757"
+[1]  0.09989142 -0.01480750  0.04509018
+[1]  0.100502513 -0.007305936 -0.022079117
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600758"
+[1]  0.10064516 -0.01172333  0.03558719
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600759"
+[1]  0.10041265  0.00250000 -0.05361596
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600760"
+[1]  0.09981741 -0.01383509 -0.03872054
+[1]  0.100205903 -0.009357455 -0.100125945
+[1]  0.10028930 -0.02979842  0.03252033
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600761"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600763"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600764"
+[1]  0.10010881 -0.00148368 -0.03318474
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600765"
+[1]  0.09988818  0.02982040 -0.03257651
+[1]  0.0998455996 -0.0004679457 -0.0454119850
+[1] 0.100049044 0.012483281 0.009687362
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600766"
+[1]  0.097184378 -0.004139073  0.014131338
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600767"
+[1]  0.10011507 -0.02301255  0.01552463
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600768"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600769"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600770"
+[1]  0.09963899 -0.02954695 -0.02638701
+[1]  0.10061350 -0.01672241  0.09977324
+[1]  0.09992543  0.02372881 -0.05099338
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600771"
+[1]  0.09912109 -0.02709907  0.02922374
+[1] 0.100202840 0.002949853 0.038602941
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600773"
+[1]  0.09994901 -0.01437181  0.02916275
+[1]  0.100196464  0.008035714 -0.100088574
+[1]  0.09990157  0.01565996 -0.03083700
+[1]  0.10030960 -0.02082161 -0.10000000
+[1] 0.10015983 0.01985472 0.04083571
+[1]  0.10013844 -0.02265101  0.02875536
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600774"
+[1] 0.09981629 0.02338530 0.01849837
+[1]  0.100173712 -0.002105263 -0.100210970
+[1]  0.100325733 -0.007104796  0.011926058
+[1]  0.099883178 -0.007966012 -0.097430407
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600775"
+[1]  0.09924623 -0.00800000 -0.01094470
+[1]  0.10023866 -0.01807664 -0.10014728
+[1]  0.10026385 -0.01998401  0.03099511
+[1]  0.099867725 -0.002405292 -0.021699819
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600776"
+[1] 0.09974205 0.01329163 0.01543210
+[1]  0.09985935 -0.02557545  0.01706037
+[1]  0.10022953 -0.01668985 -0.07001414
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600777"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600778"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600779"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600780"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600781"
+[1] 0.09982280 0.01933405 0.04109589
+[1]  0.098360656  0.003482587 -0.100148736
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600782"
+[1]  0.100467290 -0.029723992  0.008752735
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600783"
+[1]  0.09774109 -0.01939058 -0.03147700
+[1] 0.100055586 0.003031834 0.100251889
+[1] 0.09850626 0.00183756 0.07630227
+[1]  0.09990553 -0.01460167  0.05534975
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600784"
+[1]  0.09951846 -0.01313869  0.10059172
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600785"
+[1]  0.09989666  0.00000000 -0.04885687
+[1] 0.100101112 0.006127451 0.015834348
+[1]  0.10006519 -0.02785185 -0.05181347
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600787"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600789"
+[1]  0.09970888 -0.01389808 -0.10000000
+[1]  0.100000000 -0.004179728  0.051416579
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600790"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600791"
+[1]  0.10017889 -0.02439024  0.01333333
+[1]  0.10032895 -0.01644245 -0.02583587
+[1] 0.10080000 0.02034884 0.02849003
+[1]  0.099870298 -0.007075472  0.008313539
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600792"
+[1] 0.100471 0.000000 0.000000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600793"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600794"
+[1]  0.099621690  0.009174312 -0.100000000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600795"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600796"
+[1]  0.099378882 -0.002259887  0.022650057
+[1]  0.10000000 -0.01972556 -0.05511811
+[1]  0.100117786 -0.004282655 -0.023655914
+[1] 0.100362757 0.006593407 0.029475983
+[1]  0.100105374  0.003831418 -0.001908397
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600797"
+[1] 0.1001908 0.0000000 0.0000000
+[1]  0.099480969  0.007867821 -0.014051522
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600798"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600800"
+[1]  0.10034014 -0.02782071  0.04451510
+[1] 0.10058309 0.02649007 0.04258065
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600801"
+[1]  0.099717780  0.000000000 -0.002566296
+[1]  0.10038610  0.01286550 -0.03233256
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600802"
+[1] 0.09940653 0.01754386 0.00132626
+[1] 0.10067114 0.01097561 0.02050663
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600803"
+[1]  0.10018051  0.01230517 -0.09967585
+[1]  0.098175500 -0.018196203  0.004834811
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600804"
+[1] 0.100093545 0.025085034 0.003732891
+[1]  0.10005559 -0.02981304 -0.05468750
+[1] 0.10020877 0.01091082 0.02111685
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600805"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600806"
+[1] 0.1002845 0.0000000 0.1001939
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600807"
+[1]  0.09978070 -0.02592223  0.01125896
+[1] 0.09973924 0.00000000         NA
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600808"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600809"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600810"
+[1]  0.09555855 -0.02334152 -0.00754717
+[1]  0.09954751 -0.01954733 -0.08184680
+[1]  0.10043668 -0.02380952 -0.09654472
+[1] 0.099571734 0.008763389 0.025096525
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600811"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600812"
+[1] 0.10040161 0.02433090 0.03087886
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600814"
+[1]  0.09980806  0.02268761 -0.04180887
+[1]  0.09973286 -0.02105263  0.02398677
+[1]  0.100349040 -0.007137193 -0.083865815
+[1]  0.099910794  0.006488240 -0.004029009
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600815"
+[1]  0.09945504 -0.01734820  0.09962169
+[1] 0.09954233 0.02289282 0.02543235
+[1]  0.09973046 -0.01633987 -0.09966777
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600816"
+[1] 0.100246 0.000000 0.000000
+[1] 0.099939062 0.008310249 0.030769231
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600817"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600818"
+[1]  0.099955043  0.020027248 -0.007880326
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600819"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600820"
+[1]  0.099930604 -0.006940063  0.003811944
+[1]  0.09960938 -0.01865009 -0.09954751
+[1]  0.100200401 -0.003642987  0.041133455
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600821"
+[1]  0.100671141 -0.009756098  0.030788177
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600822"
+[1]  0.096373057 -0.006616257 -0.010466223
+[1] 0.100000000 0.002097902 0.046755059
+[1]  0.099156118 -0.005758157  0.061776062
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600823"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600824"
+[1] 0.09977064 0.01772680 0.06045082
+[1]  0.09974093 -0.02237927  0.06024096
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600825"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600826"
+[1] 0.10000000 0.02383054 0.06206897
+[1]  0.100089366 -0.009341998 -0.100041000
+[1]  0.10022779 -0.01449275 -0.03739496
+[1]  0.09995002 -0.01226715  0.06301748
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600827"
+[1]  0.10023585 -0.02143623 -0.01752464
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600828"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600829"
+[1]  0.09991877  0.01698671 -0.01670298
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600830"
+[1]  0.10047847 -0.02717391  0.03798883
+[1] 0.10008203 0.01416853 0.02794118
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600831"
+[1]  0.100248550  0.004518072 -0.019490255
+[1]  0.100465116 -0.009298394  0.032423208
+[1] 0.10000000 0.00000000 0.01161996
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600833"
+[1] 0.100343643 0.004996877 0.000000000
+[1] 0.100115075 0.007322176 0.029595016
+[1]  0.099783080 -0.006574622  0.030443415
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600834"
+[1]  0.097607053 -0.002294894 -0.035652674
+[1]  0.10010267 -0.02846477  0.04418828
+[1]  0.10006498 -0.02480803 -0.03634161
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600835"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600836"
+[1]  0.100142383 -0.005176877 -0.021248916
+[1]  0.09981256  0.02513847 -0.10016625
+[1]  0.100201207  0.009144111 -0.057992026
+[1]  0.10021322  0.01395349 -0.01796636
+[1]  0.100031959  0.015979082 -0.005719188
+[1]  0.099712368  0.001743679 -0.046707282
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600837"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600838"
+[1]  0.10027663  0.00000000 -0.09993715
+[1]  0.100293255 -0.020255864 -0.008161045
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600839"
+[1] 0.099885189 0.006263048 0.069502075
+[1]  0.10017889 -0.02113821  0.01495017
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600841"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600843"
+[1]  0.10011186 -0.01830198  0.04712584
+[1]  0.09974641 -0.02997694  0.03248811
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600844"
+[1]  0.09951456 -0.01986755 -0.04279279
+[1]  0.09836066 -0.02487562  0.01530612
+[1]  0.099596231 -0.008567931  0.007407407
+[1] 0.099236641 0.005787037 0.001150748
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600845"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600846"
+[1] 0.10024155 0.01646542 0.10043197
+[1]  0.100278552 -0.003797468  0.100381194
+[1]  0.10038119  0.01963048 -0.02038505
+[1]  0.100198413  0.023444545 -0.006167401
+[1]  0.10025929 -0.02042419  0.02967121
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600847"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600848"
+[1]  0.100190235  0.008645533 -0.007428571
+[1] 0.09988109 0.02054054 0.05826271
+[1]  0.100049044 -0.025858226 -0.003203661
+[1]  0.099822538 -0.006857604 -0.023964257
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600850"
+[1]  0.10008288 -0.02147297  0.03137632
+[1] 0.09987237 0.02233827 0.02071510
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600851"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600853"
+[1] 0.09970238 0.00000000 0.00000000
+[1]  0.09946237  0.01955990 -0.09952038
+[1]  0.099850969 -0.009485095  0.095759234
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600854"
+[1]  0.09985935  0.02429668 -0.01373283
+[1]  0.099673203  0.002971768 -0.047407407
+[1]  0.09987966  0.01859956 -0.02040816
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600855"
+[1]  0.099895215 -0.003175611 -0.022618668
+[1]  0.099968563  0.025435839 -0.008361204
+[1]  0.10000000 -0.02220360  0.03427592
+[1] 0.099575453 0.009126009 0.031652174
+[1] 0.09987030 0.02240566 0.10005767
+[1]  0.10005767 -0.01494102 -0.06253326
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600856"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600857"
+[1]  0.09994189 -0.01373481 -0.10016069
+[1]  0.09962756 -0.01947502  0.05094991
+[1]  0.09883721 -0.02169312 -0.01676582
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600858"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600859"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600860"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600861"
+[1]  0.09534368  0.02766532 -0.01575837
+[1]  0.09976247  0.02915767 -0.10020986
+[1]  0.100000000  0.006379585 -0.099841521
+[1] 0.100097182 0.001766784 0.043209877
+[1]  0.100156495  0.024182077 -0.009722222
+[1]  0.10013532 -0.01353014  0.09975062
+[1]  0.099750623 -0.022108844  0.009855072
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600862"
+[1]  0.09995498  0.01473598 -0.01976603
+[1] 0.09677419 0.00000000 0.00000000
+[1]  0.100000000  0.008985201 -0.003666841
+[1] 0.09559676 0.01956637 0.02956432
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600863"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600864"
+[1]  0.10054645 -0.02284012  0.03353659
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600865"
+[1] 0.09968847 0.01133144 0.00000000
+[1]  0.099644128  0.001618123 -0.015347334
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600866"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600867"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600868"
+[1]  0.100884956  0.001607717 -0.009630819
+[1]  0.099485420  0.007800312 -0.068111455
+[1]  0.100494234  0.001497006 -0.004484305
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600869"
+[1]  0.09976617 -0.01417434 -0.09992811
+[1]  0.100133511  0.002427184 -0.062953995
+[1] 0.09966405 0.00000000 0.00000000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600870"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600871"
+[1]  0.09954751  0.01508916 -0.10000000
+[1]  0.09970958 -0.02640845 -0.02169982
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600872"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600873"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600874"
+[1]  0.09811828 -0.02815177  0.02141058
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600875"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600876"
+[1]  0.10005379 -0.01075795  0.09985171
+[1]  0.100090171  0.009289617 -0.023551705
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600877"
+[1]  0.10010537  0.01724138 -0.03860640
+[1]  0.100376412 -0.005701254 -0.099770642
+[1]  0.10032895 -0.02242152  0.09938838
+[1]  0.100139082 -0.007585335  0.003821656
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600879"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600880"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600881"
+[1]  0.10000000 -0.01386749  0.02968750
+[1] 0.10014306 0.02340702 0.04066074
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600882"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600883"
+[1]  0.096689895 -0.003177125 -0.001593625
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600884"
+[1] 0.10000000 0.00684262 0.03333333
+[1]  0.097736626 -0.003280225  0.033380348
+[1]  0.09571286 -0.01910828  0.02968460
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600885"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600886"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600887"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600888"
+[1]  0.09979210  0.01039698 -0.09354537
+[1]  0.09775641 -0.02919708  0.02857143
+[1] 0.100000000 0.007177033 0.038004751
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600889"
+[1]  0.09757695 -0.00477327 -0.10011990
+[1]  0.0999020568 -0.0017809439  0.0008920607
+[1]  0.09974205  0.02658327 -0.01218583
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600890"
+[1]  0.099489796 -0.001160093  0.042973287
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600891"
+[1] 0.09990109 0.00000000 0.00000000
+[1]  0.100000000 -0.003030303 -0.007092199
+[1]  0.10042735  0.02233010 -0.04558405
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600892"
+[1]  0.0999456817  0.0121810700 -0.0008131403
+[1]  0.099971957 -0.005608668 -0.001025510
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600893"
+[1]  0.100041425  0.008472981 -0.034727409
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600894"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600895"
+[1]  0.10026667 -0.02326709 -0.02084367
+[1] 0.0966117216 0.0004175365 0.0204507513
+[1]  0.100074129 -0.029312668 -0.007636237
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600896"
+[1]  0.09985097 -0.02439024  0.01736111
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600897"
+[1] 0.10009141 0.01744911 0.05104124
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600898"
+[1] 0.10023310 0.01483051 0.10020877
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600900"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600917"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600958"
+[1]  0.0998307953 -0.0003846154  0.0200076953
+[1]  0.100043879 -0.015955325 -0.003242805
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600959"
+[1]  0.09992343 -0.02053603 -0.09985785
+[1]  0.09979633 -0.02160494  0.02018927
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600960"
+[1] 0.09989909 0.00000000 0.00000000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600961"
+[1]  0.098790323 -0.005504587 -0.099630996
+[1]  0.09908884 -0.02383420  0.00955414
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600962"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600963"
+[1]  0.09970674  0.01333333 -0.03289474
+[1] 0.09939759 0.02465753 0.02540107
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600965"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600966"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600967"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600969"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600970"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600971"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600973"
+[1]  0.10037879 -0.01807229  0.01051709
+[1]  0.10040161  0.01733577 -0.09955157
+[1]  0.10011123 -0.02932255  0.02812500
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600975"
+[1]  0.09820836 -0.01329305 -0.01530925
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600976"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600978"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600979"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600980"
+[1] 0.09971510 0.02461140 0.02064897
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600981"
+[1] 0.099670511 0.007490637 0.037918216
+[1]  0.10078740 -0.02145923  0.02339181
+[1] 0.100318471 0.000723589 0.011569053
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600982"
+[1]  0.10000000  0.00487013 -0.08885299
+[1]  0.09982487  0.02070064 -0.03744150
+[1]  0.099818512 -0.006600660  0.004983389
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600983"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600984"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600985"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600986"
+[1]  0.10000000 -0.01438110  0.02866076
+[1]  0.100136240 -0.009907121 -0.100062539
+[1]  0.09973046 -0.02022059  0.01751094
+[1] 0.10013441 0.02687844 0.01249256
+[1]  0.098007539  0.006866111 -0.023380419
+[1]  0.100000000  0.023996308 -0.008562416
+[1] 0.100049776 0.002262443 0.038374718
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600987"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600988"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600990"
+[1] 0.10000000 0.01377820 0.03837442
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600992"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600993"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600995"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600997"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600998"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/600999"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601000"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601001"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601002"
+[1]  0.09951456  0.02097130 -0.09945946
+[1] 0.09894566 0.02287823 0.03246753
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601003"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601005"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601006"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601007"
+[1] 0.10006583 0.00299222 0.01133652
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601008"
+[1] 0.09962169 0.02752294 0.06026786
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601009"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601010"
+[1]  0.1004243  0.0000000 -0.1002571
+[1]  0.10038119  0.02424942 -0.03494927
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601011"
+[1]  0.099935939  0.005824112 -0.086855819
+[1] 0.10044444 0.02584814 0.04094488
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601012"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601015"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601016"
+[1]  0.1001676446 -0.0003809524  0.0998475610
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601018"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601021"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601028"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601038"
+[1]  0.10021097 -0.01534036 -0.10029211
+[1]  0.10060606 -0.01982379  0.03370787
+[1]  0.09975470  0.02602230 -0.06811594
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601058"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601069"
+[1]  0.09981960 -0.02022963  0.01004464
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601088"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601098"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601099"
+[1] 0.100427350 0.001941748 0.063953488
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601100"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601101"
+[1]  0.100172712 -0.025117739  0.009661836
+[1] 0.100522193 0.007117438 0.080094229
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601106"
+[1]  0.1001076426 -0.0156555773  0.0009940358
+[1]  0.100000000 -0.005347594 -0.025806452
+[1] 0.100241546 0.026344676 0.005347594
+[1]  0.09964830 -0.01066098 -0.02801724
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601107"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601111"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601113"
+[1] 0.10048622 0.01178203 0.01018923
+[1]  0.09976247 -0.02159827  0.00000000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601116"
+[1]  0.099674973  0.004926108 -0.019607843
+[1]  0.09990485  0.02508651 -0.02531646
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601117"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601118"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601126"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601137"
+[1]  0.100000000 -0.026332288  0.003219575
+[1]  0.10000000  0.00000000 -0.01771562
+[1]  0.09983498 -0.01912978 -0.06195029
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601139"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601158"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601166"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601168"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601169"
+[1] 0.10025707 0.01869159 0.07798165
+[1]  0.10034208  0.02279793 -0.00810537
+[1]  0.100540541  0.004911591 -0.026392962
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601177"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601179"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601186"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601188"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601198"
+[1] 0.099907493 0.020185029 0.004946414
+[1] 0.1 0.0 0.0
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601199"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601208"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601211"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601216"
+[1]  0.099909173  0.008257638 -0.030303030
+[1]  0.09973046 -0.01388889  0.04971002
+[1]  0.10008857  0.01288245 -0.09379968
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601218"
+[1]  0.100158983 -0.002890173  0.018840580
+[1]  0.10040984 -0.02793296  0.03256705
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601222"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601225"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601226"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601231"
+[1]  0.09984756 -0.02772003  0.01496793
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601233"
+[1]  0.09993248  0.01903008 -0.02891566
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601238"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601258"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601288"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601311"
+[1] 0.10032626 0.01186064 0.02710623
+[1]  0.09980302 -0.02089552 -0.05060976
+[1]  0.095442359 -0.020558003 -0.003498251
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601313"
+[1]  0.1002260739 -0.0006849315 -0.0116518163
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601318"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601328"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601333"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601336"
+[1]  0.10010493 -0.02365509 -0.00332161
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601339"
+[1] 0.09965636 0.00312500 0.03894081
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601368"
+[1]  0.099865047 -0.002453988 -0.038540385
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601369"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601377"
+[1] 0.09962756 0.01270110 0.10033445
+[1]  0.10033445  0.01215805 -0.04354354
+[1]  0.09859155 -0.01111111 -0.02506482
+[1]  0.10017730 -0.02175665  0.02635914
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601388"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601390"
+[1]  0.10000000 -0.02238806  0.03122831
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601398"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601515"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601518"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601519"
+[1]  0.100280505  0.007648184 -0.035420620
+[1]  0.09987820 -0.02657807  0.10011377
+[1] 0.099762470 0.001439885 0.033069734
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601555"
+[1]  0.096624752 -0.026554013  0.003099814
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601558"
+[1]  0.101149425 -0.027139875  0.004291845
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601566"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601567"
+[1] 0.099778271 0.004032258 0.023092369
+[1] 0.0997171146 0.0192926045 0.0006309148
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601579"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601588"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601599"
+[1] 0.10029499 0.02345845 0.05108055
+[1] 0.099759615 0.003278689 0.026688453
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601600"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601601"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601607"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601608"
+[1]  0.100000000  0.008962868 -0.038071066
+[1]  0.100303951 -0.002762431 -0.031855956
+[1]  0.100000000  0.002331002 -0.033720930
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601616"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601618"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601628"
+[1] 0.10022779 0.02608696 0.02663438
+[1] 0.09988340 0.01872792 0.03884842
+[1]  0.099925150  0.007485539 -0.038838230
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601633"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601636"
+[1]  0.10065646  0.02584493 -0.03294574
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601666"
+[1]  0.10043668  0.01984127 -0.02334630
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601668"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601669"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601677"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601678"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601688"
+[1]  0.099947944 -0.027922385  0.005842259
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601689"
+[1]  0.10006716 -0.02747253  0.01129944
+[1] 0.100261097 0.028951115 0.002306273
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601699"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601700"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601717"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601718"
+[1]  0.10014205  0.02517753 -0.07430730
+[1]  0.100000000 -0.001115449 -0.099944165
+[1]  0.10041494 -0.00678733  0.02505695
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601727"
+[1]  0.100366300  0.005326232 -0.039072848
+[1]  0.099901088 -0.017985612  0.005494505
+[1]  0.10009718 -0.01943463  0.02162162
+[1]  0.10040486 -0.02943341 -0.04397271
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601766"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601777"
+[1] 0.1000000 0.0156038 0.0487642
+[1]  0.10035842 -0.02497286  0.01893096
+[1] 0.10044843 0.00000000 0.01548492
+[1]  0.09977152 -0.02146814 -0.09978769
+[1]  0.099879663  0.003282276 -0.057251908
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601788"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601789"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601798"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601799"
+[1]  0.10000000 -0.01467803  0.03171552
+[1]  0.10011955 -0.01140994 -0.05193735
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601800"
+[1]  0.099730458 -0.018995098  0.001873829
+[1] 0.09981685 0.01582015 0.04180328
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601801"
+[1]  0.099966566  0.019148936 -0.006561288
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601808"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601818"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601857"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601866"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601872"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601877"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601880"
+[1]  0.100000000  0.002754821 -0.032967033
+[1]  0.09949410  0.01993865 -0.09473684
+[1]  0.100313480 -0.022792023  0.001457726
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601886"
+[1]  0.10022026 -0.01401401 -0.09949239
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601888"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601890"
+[1]  0.10017271  0.01491366 -0.09976798
+[1]  0.10041152  0.01869858 -0.04919236
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601898"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601899"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601901"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601908"
+[1] 0.099243856 0.002579536 0.036878216
+[1]  0.100000000 -0.001443001  0.020953757
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601918"
+[1] 0.10006854 0.01370717 0.03380455
+[1]  0.10044053 -0.02161729 -0.09983633
+[1]  0.100000000 -0.009182736  0.055607044
+[1]  0.100263852 -0.003996803 -0.032102729
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601919"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601928"
+[1]  0.10019907 -0.01930036 -0.04120541
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601929"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601933"
+[1] 0.099673203 0.008915305 0.000736377
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601939"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601958"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601965"
+[1]  0.099715100 -0.028497409  0.002666667
+[1]  0.099744246  0.005813953 -0.001156069
+[1]  0.099780702  0.000997009 -0.099601594
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601968"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601969"
+[1]  0.09977152  0.01177285 -0.01368925
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601985"
+[1]  0.099820144 -0.003270646 -0.029532404
+[1] 0.099520384 0.021810251 0.001067236
+[1]  0.10035842 -0.01845820  0.01327434
+[1]  0.09627329  0.01605288 -0.02416357
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601988"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601989"
+[1] 0.09991674 0.02498107 0.02511078
+[1] 0.100069979 0.025445293 0.004342432
+[1]  0.099712368 -0.001743679 -0.032314410
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601991"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601992"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601996"
+[1]  0.09960159 -0.01811594  0.01476015
+[1]  0.099671413 -0.001992032 -0.049900200
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601998"
+[1] 0.100884956 0.024115756 0.004709576
+[1]  0.10057471  0.02219321 -0.01915709
+[1]  0.09971910  0.01277139 -0.02900378
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/601999"
+[1]  0.099522293 -0.009413469  0.022660819
+[1]  0.10041408 -0.01787394  0.01149425
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603000"
+[1]  0.09973226 -0.01886792  0.06575682
+[1]  0.10016069 -0.01022395  0.04968028
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603001"
+[1]  0.10005003 -0.01227831 -0.07642726
+[1]  0.09995263 -0.00129199  0.02889176
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603002"
+[1] 0.100273473 0.001657001 0.016542597
+[1]  0.09811828 -0.01346389  0.02977667
+[1]  0.100405680 -0.008294931  0.018587361
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603003"
+[1]  0.10026110 -0.02705268 -0.02536585
+[1]  0.09971510 -0.02007772  0.01057502
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603005"
+[1]  0.097302834 -0.009645302  0.048067861
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603006"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603008"
+[1] 0.10000000 0.02597403 0.00140647
+[1]  0.09954751 -0.01399177  0.06677796
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603009"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603010"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603011"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603012"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603015"
+[1] 0.09994448 0.00000000 0.09994952
+[1] 0.100000000 0.002114165 0.099859353
+[1]  0.09985935  0.02078005 -0.05574695
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603017"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603018"
+[1]  0.095319485 -0.006841916 -0.023326082
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603019"
+[1]  0.099970114  0.015215324 -0.001739596
+[1]  0.09659380 -0.02190542 -0.02547695
+[1] 0.10005087 0.01634037 0.02715001
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603020"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603021"
+[1]  0.09993906 -0.01588181 -0.02308125
+[1]  0.09992862 -0.01752109 -0.02487891
+[1] 0.1000575 0.0000000 0.0000000
+[1]  0.1000000000 -0.0049090909 -0.0007308606
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603022"
+[1]  0.10002501 -0.01818595  0.08427877
+[1] 0.10006320 0.00689391 0.10003804
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603023"
+[1]  0.09992178  0.02382222 -0.03577010
+[1]  0.09987072 -0.02262709 -0.00210463
+[1]  0.10002404 -0.01158470  0.04268023
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603025"
+[1]  0.100054526  0.009665428 -0.057437408
+[1]  0.09989401 -0.01324982 -0.03564453
+[1]  0.099933081 -0.006489556 -0.100020412
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603026"
+[1]  0.100000000 -0.018411968  0.006447831
+[1]  0.10000000  0.02945658 -0.01282684
+[1] 0.10013061 0.01662050 0.02452316
+[1] 0.10000000 0.00000000 0.05633017
+[1]  0.09997397 -0.02201183 -0.04041626
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603030"
+[1]  0.10024213 -0.02640845  0.02169982
+[1]  0.10000000 -0.02131939 -0.02178381
+[1]  0.099940334 -0.013289938 -0.009620671
+[1]  0.1000279 -0.0177305  0.1000516
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603066"
+[1] 0.100048450 0.003303237 0.067603161
+[1]  0.10002428  0.02957405 -0.02958199
+[1] 0.09785730 0.01851107 0.02805215
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603077"
+[1]  0.100240964 -0.004380201 -0.046194457
+[1]  0.10035211  0.02240000 -0.02034429
+[1]  0.100662252 -0.012033694 -0.001218027
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603085"
+[1] 0.10006456 0.02347418 0.02694954
+[1] 0.099931082 0.006578947 0.001556178
+[1] 0.100062150 0.002542373 0.013243167
+[1]  0.10007506 -0.00204685 -0.02871468
+[1] 0.10008897 0.01415285 0.01654705
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603088"
+[1]  0.1000662691 -0.0039156627 -0.0009071666
+[1]  0.09726095 -0.01434978 -0.01076736
+[1]  0.09994498  0.02250750 -0.03929561
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603099"
+[1]  0.09991674 -0.01627555 -0.01077337
+[1]  0.100060277 -0.007123288  0.049116998
+[1]  0.09994740 -0.02343376 -0.03476983
+[1]  0.09903382 -0.02461538 -0.03424966
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603100"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603108"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603111"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603116"
+[1]  0.09722736  0.02055256 -0.07164081
+[1]  0.100142552  0.001619695 -0.004527814
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603117"
+[1]  0.09996541 -0.02830189 -0.10000000
+[1]  0.09991742 -0.02327327  0.01921599
+[1]  0.09987619  0.01876173 -0.03499079
+[1] 0.1000000000 0.0003469813 0.0357266736
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603118"
+[1]  0.099928876 -0.004203039  0.013636364
+[1] 0.099914359 0.000519076 0.000000000
+[1] 0.1001058201 0.0001923817 0.0048086170
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603123"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603126"
+[1]  0.10031847 -0.02243126 -0.03552924
+[1]  0.099832215  0.006864989 -0.100000000
+[1]  0.09619109 -0.02414605  0.06035003
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603128"
+[1]  0.10032895 -0.02690583          NA
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603158"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603166"
+[1]  0.099874765 -0.000569314  0.014810595
+[1]  0.10005653 -0.01002055  0.04126655
+[1]  0.099802372 -0.008086253 -0.019021739
+[1] 0.10008482 0.01349268 0.05401293
+[1] 0.10006562 0.01580674 0.06723429
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603167"
+[1]  0.100361664 -0.021364010  0.006717045
+[1]  0.10023585 -0.01822079  0.02729258
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603168"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603169"
+[1] 0.09975520 0.01001669 0.10027548
+[1] 0.100000000 0.008717310 0.008641975
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603188"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603198"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603199"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603222"
+[1]  0.10000000 -0.02522608  0.02050781
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603223"
+[1] 0.10007358 0.01739130 0.09993425
+[1]  0.100126743  0.006912442 -0.016590389
+[1]  0.10002908  0.01506741 -0.02239583
+[1]  0.09994698  0.01446132 -0.01092896
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603227"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603268"
+[1]  0.096931024 -0.012465374 -0.005890603
+[1]  0.09992274 -0.02060407 -0.02008128
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603288"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603300"
+[1]  0.100067843 -0.004008634  0.009287926
+[1]  0.09996553 -0.02444375  0.01606168
+[1]  0.09990545 -0.02865330  0.10000000
+[1] 0.10002866 0.01745701 0.03533931
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603306"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603308"
+[1]  0.10011574 -0.01052078 -0.02020202
+[1] 0.100000000 0.003991131 0.099823322
+[1]  0.09982332 -0.01365462  0.01221498
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603309"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603311"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603315"
+[1]  0.100045475 -0.009921455  0.039039666
+[1]  0.10000000  0.02155576 -0.01681957
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603318"
+[1]  0.100027255  0.002229931 -0.046477132
+[1] 0.09996199 0.02228749 0.02433666
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603328"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603333"
+[1]  0.10049628  0.01803833 -0.03765227
+[1]  0.099299065  0.007438895 -0.029535865
+[1]  0.100546448 -0.006951341  0.006000000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603338"
+[1]  0.10000000 -0.02978056 -0.06197680
+[1]  0.099924727 -0.005645851 -0.040089470
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603355"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603366"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603368"
+[1]  0.09622865 -0.01496452  0.01863743
+[1]  0.10005288 -0.01105663 -0.02070776
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603369"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603399"
+[1]  0.100680272 -0.003708282  0.042183623
+[1]  0.09985207 -0.02017485 -0.05353466
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603456"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603518"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603519"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603555"
+[1]  0.099799398 -0.017327861  0.006960557
+[1] 0.10000000 0.01045857 0.01552548
+[1]  0.10000000  0.00000000 -0.02715466
+[1]  0.09996701 -0.01199760 -0.09987857
+[1]  0.100084579  0.021527422 -0.003261415
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603558"
+[1]  0.09995171  0.01690079 -0.02978632
+[1]  0.10002866  0.02449192 -0.02110885
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603566"
+[1]  0.099085366 -0.025520111  0.009678338
+[1]  0.100035855 -0.007822686  0.002628121
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603567"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603568"
+[1]  0.10003243 -0.02033898 -0.05701820
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603588"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603589"
+[1] 0.09996952 0.01856470 0.02883569
+[1] 0.09994086 0.02069892 0.02422965
+[1]  0.099973126 -0.019056926  0.008468244
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603598"
+[1] 0.099929874 0.004781639 0.013324873
+[1]  0.09986320  0.01934771 -0.10005423
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603599"
+[1]  0.09993217 -0.02569373  0.04957806
+[1]  0.10000000 -0.01693744  0.01265823
+[1] 0.10004143 0.01995858 0.02547536
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603600"
+[1]  0.10002955  0.01820013 -0.07789724
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603601"
+[1]  0.10000000 -0.01743462 -0.03643853
+[1]  0.09983897 -0.01756955  0.01080477
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603606"
+[1]  0.095605701  0.004878049 -0.010248112
+[1] 0.10009268 0.00421230 0.01342282
+[1]  0.100125945 -0.009730967  0.043352601
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603609"
+[1]  0.099848714 -0.002063274 -0.325292901
+[1]  0.10000000  0.01350135 -0.02397869
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603611"
+[1]  0.10025316 -0.01932812 -0.09995307
+[1] 0.10015649 0.00000000 0.03470839
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603616"
+[1] 0.1000907853 0.0226944502 0.0002017349
+[1]  0.09990425  0.01799187 -0.10005701
+[1]  0.095439739  0.002676182 -0.099940688
+[1] 0.10006477 0.02384457 0.10005750
+[1]  0.10005750 -0.01071615  0.01585205
+[1]  0.09997200 -0.01705703  0.04040404
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603618"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603636"
+[1] 0.1000667111 0.0008085709 0.0030296910
+[1]  0.100053720  0.008790136 -0.020573642
+[1] 0.09997753 0.01419526 0.09998993
+[1] 0.09704181 0.00398010 0.06590684
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603669"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603678"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603686"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603688"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603698"
+[1] 0.099939247 0.004142502 0.004675468
+[1] 0.10000000 0.02531646 0.01178451
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603699"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603703"
+[1] 0.09996989 0.01834109 0.09408602
+[1] 0.09992930 0.01649882 0.01475548
+[1]  0.100057971 -0.016125632 -0.002892341
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603718"
+[1]  0.099966678 -0.005149955  0.074604141
+[1]  0.10002000  0.01654846 -0.03613596
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603729"
+[1]  0.09999110 -0.01570342 -0.03199013
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603766"
+[1]  0.10000000 -0.02713704  0.03486750
+[1]  0.099766628  0.008488064 -0.040504997
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603788"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603789"
+[1]  0.10000000 -0.02037618  0.10000000
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603799"
+[1] 0.09981049 0.01550833 0.10011312
+[1] 0.10011312 0.02416452 0.04317269
+[1] 0.100096246 0.027996500 0.008085106
+[1]  0.099924869 -0.013661202 -0.005540166
+[1] 0.100174216 0.007521774 0.044793713
+[1]  0.10003761  0.01367521 -0.06543002
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603806"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603808"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603818"
+[1]  0.09989666  0.02599436 -0.10012210
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603828"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603838"
+[1] 0.100038037 0.019363762 0.009497965
+[1]  0.100134409 -0.025351252  0.007521153
+[1]  0.099917196 -0.002258469  0.011317907
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603869"
+[1] 0.1 0.0 0.0
+[1]  0.09995394 -0.02051926 -0.03890552
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603883"
+[1]  0.09975962 -0.02240437 -0.01900503
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603885"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603889"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603898"
+[1]  0.10008703 -0.02056962 -0.01507808
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603899"
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603901"
+[1]  0.10009044 -0.01370238  0.02389553
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603918"
+[1] 0.100066050 0.007505254 0.058402861
+[1] 0.09994888 0.02533116 0.04170444
+[1]  0.100087032 -0.008109177 -0.011964108
+[1]  0.099976804 -0.003584985  0.100000000
+[1]  0.099964341 -0.007996542 -0.009368192
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603939"
+[1]  0.09955706 -0.01131786  0.02483508
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603968"
+[1] 0.096222381 0.017121803 0.007884083
+[1]  0.099563319 -0.007545671 -0.026810724
+[1]  0.10011966 -0.01994199 -0.01257862
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603969"
+[1]  0.09992652  0.01002004 -0.09986772
+[1]  0.10016835 -0.01453711  0.02872671
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603979"
+[1] 0.09988062 0.02894356 0.02777778
+[1]  0.10014674  0.01433811 -0.01084813
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603988"
+[1] 0.09969789 0.02994505 0.02800747
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603989"
+[1]  0.10000000 -0.01366607  0.03012048
+[1] 0.09997469 0.01058445 0.07035519
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603993"
+[1]  0.100000000 -0.025285972  0.007411983
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603997"
+[1]  0.099874634 -0.008358663  0.045210728
+[1]  0.10014948 -0.01902174  0.03116343
+[1]  0.098857143 -0.006760270 -0.008376963
+[1]  0.100035474 -0.016446308  0.008196721
+[1] "e:/gww/MIT/stock/data/price/sh/xueqiu/603998"
