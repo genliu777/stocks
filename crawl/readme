@@ -1,0 +1,4 @@
+crawl:
+  crawl data from qq, sohu, eastmoney, yahoo.
+  
+  1. yahoo will block crawler if the same client request too many url in 1 minute
